@@ -6,7 +6,9 @@
         <entry key="..\:/Users/Khanya Maqolwana/Documents/CSC2002S/Practical/Android Studio Projects/Assignments MDD/New Alphabet Book/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="app/src/main/res/layout/activity_letter_page.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.11119554204660588" />
-        <entry key="app/src/main/res/layout/content_letter_page.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/content_letter_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.22" />
       </map>
     </option>
   </component>
